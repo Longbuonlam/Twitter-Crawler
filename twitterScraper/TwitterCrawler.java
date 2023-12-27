@@ -259,8 +259,8 @@ public class TwitterCrawler {
       TwitterCrawler crawler = new TwitterCrawler();
 
       // Provide your Twitter username and password directly
-      String username = "BeXuanMike25";
-      String password = "quan252556915691";
+      String username = "your username";
+      String password = "your password";
 
       crawler.login(username, password);
       crawler.getElements();
