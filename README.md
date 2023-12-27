@@ -1,3 +1,3 @@
 # Twitter-Crawler
-<h1>Crawl data from Twitter using Java, Selenium<h1>
+Crawl data from Twitter using Java, Selenium
 import Selenium Library, download ChromeDriver before running :>
